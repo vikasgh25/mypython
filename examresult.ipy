@@ -1,0 +1,12 @@
+#exam result
+x = int(input("enter marks: "))
+if x >= 95:
+    print("excellent")
+elif x >= 85:
+    print("Dist")
+elif x >= 70:
+    print("good")
+elif x >= 60:
+    print("just pass")
+else:
+    print("fail")
