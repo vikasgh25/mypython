@@ -1,0 +1,4 @@
+#simple_interest() that takes principal, rate, and time as parameters and returns the simple interest.
+def simple_interest(p,r,t):
+   return (p*r*t)/100
+simple_interest(7000000,8,4)
